@@ -10,4 +10,4 @@ The board uses internal connections for GND, V+ (+3v3), and RAW (+5v).
 
 ## Where to find the parts
 
-All of the parts are stored in the [fzpz](tree/master/fzpz) folder.
+All of the parts are stored in the *fzpz* folder.
